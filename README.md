@@ -20,3 +20,8 @@ optional arguments:
 ### 图片要求
 1. 文件名从0开始顺序递增
 1. 文件格式为jpg
+
+### 安装依赖
+```
+pip install -r requirements.txt
+```
